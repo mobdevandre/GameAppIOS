@@ -11,7 +11,7 @@ import SwiftUI
 struct GameAppIOSApp: App {
     var body: some Scene {
         WindowGroup {
-            DiceView()
+            RPSGame()
         }
     }
 }
